@@ -60,6 +60,7 @@ public class Adapter extends RecyclerView.Adapter<Adapter.productViewHolder> {
             image =itemView.findViewById( R.id.image );
             title = itemView.findViewById( R.id.title );
             price_title = itemView.findViewById( R.id.price_title );
+
         }
     }
 }
